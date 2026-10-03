@@ -1,10 +1,7 @@
 # 📊 Adult Census Income: Data Preparation, Clustering & Classification
 
-**Institution:** ESPRIT — 4CCE9 (2026–2027)  
 **Lab:** Data Preparation & Predictive Modeling  
-**Instructor:** Mohamed Aziz KASSEB  
-**Author(s):** [Your Name / Group Members]  
-**Submission Deadline:** October 4, 2026  
+**Author(s):** Mehdi Mejri
 
 ---
 
@@ -75,7 +72,7 @@ This project strictly follows the **CRISP-DM** (Cross-Industry Standard Process 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/data-prep-census-income.git
+git clone https://github.com/Mejri-Mehdi/data-prep-census-income.git
 cd data-prep-census-income
 
 # Create and activate virtual environment

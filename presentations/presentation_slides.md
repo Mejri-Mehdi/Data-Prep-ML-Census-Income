@@ -1,10 +1,6 @@
 # 📊 10-Minute Oral Defense Slide Deck
 **Project:** End-to-End Data Preparation, Clustering & Classification  
 **Dataset:** Adult Census Income (UCI Machine Learning Repository)  
-**Course:** ESPRIT — 4CCE9 (2026–2027)  
-**Instructor:** Mohamed Aziz KASSEB  
-**Author(s):** [Your Name / Team Members]  
-
 ---
 
 ## Slide 1: Title & Context
