@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Microsoft Office temporary lock files
+~$*
+
+# OS specific files
+.DS_Store
+Thumbs.db
